@@ -2,8 +2,21 @@ body{
 
     font-family: monospace;
     background-color: aquamarine;
+    margin: 0%;
+    padding: 0%;
 
 }
+
+header h1{
+
+    font-size: 80px;
+    text-align: center;
+
+
+}
+
+
+
 
 
 
@@ -11,17 +24,70 @@ body{
 
     display: flex;
     flex-direction: column;
-    justify-content: center;
     align-items: center;
     gap: 20px;
     box-shadow: 10px 10px 10px grey;
     padding-top: 50px;
     padding-bottom: 50px;
-    margin-left: 500px;
-    margin-right: 500px;
+    margin-left: 300px;
+    margin-right: 300px;
     margin-top: 100px;
     background-color: rgb(233, 233, 142);
 
 }
+
+.name input{
+
+    font-size: 100%;
+    width: 400px;
+    height: 30px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+
+.email input{
+
+    font-size: 100%;
+    width: 400px;
+    height: 30px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+
+.phone input{
+
+    font-size: 100%;
+    width: 400px;
+    height: 30px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+
+textarea{
+
+    font-size: 100%;
+    width: 700px;
+    height: 250px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.submit input{
+
+    width: 100px;
+    height: 30px;
+    box-shadow: 5px 5px 5px grey;
+
+
+}
+
+
+
+
+
+
 
 
