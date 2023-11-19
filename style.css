@@ -12,7 +12,6 @@ header h1{
     font-size: 80px;
     text-align: center;
 
-
 }
 
 
@@ -73,6 +72,7 @@ textarea{
     height: 250px;
     border-radius: 5px;
     text-align: center;
+
 }
 
 .submit input{
@@ -80,7 +80,8 @@ textarea{
     width: 100px;
     height: 30px;
     box-shadow: 5px 5px 5px grey;
-
+    background-color: aqua;
+    border-radius: 10px;
 
 }
 
